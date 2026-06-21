@@ -1,0 +1,19 @@
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.logo-part {
+  color: #4d5ae5;
+}
+
+.page-nav a:hover,
+.page-nav a:focus {
+  color: #404bbf;
+}
+
+address a:hover,
+address a:focus {
+  color: #404bbf;
+}
